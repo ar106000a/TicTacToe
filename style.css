@@ -34,6 +34,7 @@ body {
   gap: 8px;
 }
 .game .box {
+  font-size: 3vmin;
   /* all: unset; */
   height: 19vmin;
   width: 19vmin;
